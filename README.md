@@ -1,4 +1,4 @@
-I am a Senior Leader directing NOC & TOC teams for FIS and currently studying Full-Stack Development through the University of Denver. I am not planning to switch careers, but very eager to build upon my own skillsets and expand on my professional career, and also just because I think coding is fun!
+I am a Senior Leader directing NOC & TOC teams for FIS and currently studying Full-Stack Development through the University of Denver. I am not planning to switch careers, but very eager to build upon my own skillsets and expand on my current professional career, and also just because I think coding is fun!
 
 
 
