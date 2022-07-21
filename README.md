@@ -3,7 +3,7 @@ I am a Senior Leader directing NOC & TOC teams for FIS and currently studying Fu
 
 
 
-https://aurafly.github.io/Portfolio/
+https://www.auraflydev.com
 
 [Contact Me](mailto:AuraFlyDev@Gmail.com)
 
